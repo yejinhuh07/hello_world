@@ -37,5 +37,10 @@
   
 &nbsp;&nbsp;&nbsp;&nbsp;B : 다이몬, 여, A를 감시하기 위해 라퓨타에서 내려왔으며, 까마귀 수인인척 하기 위해 날개를 염색했다. (날개는 손상되면 ex. 깃털이 빠진다던가, 부러진다거나, 잘린다던가.. 다시 원래 깃털로 재생됨 : 흰색으로..)   
 <!--스토리 상 **천사와 관련된 내용은 전 초반부 에서 드러남** / **A와 B의 진정한 관계는 전 중후반부에서 드러남**-->
+스케치 / AI로 채색한거 (남색계열 메인)
+<img width="751" height="1871" alt="temp_1791185133196 -1817049491" src="https://github.com/user-attachments/assets/63f8cfe5-95c9-462a-b13c-43459ccdb02b" />
+<img width="794" height="1979" alt="temp_1791185133192 -1817049491" src="https://github.com/user-attachments/assets/fc4e7975-da70-4a64-9fd7-e88f160ce768" />
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;C : 다이몬, 남, /*이름아직못지음*/ 의 대장격.
+
